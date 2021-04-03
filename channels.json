@@ -1,0 +1,14 @@
+{
+  "general": {
+    "messages": [
+      {
+        "user": "taro",
+        "body": "message1"
+      },
+      {
+        "user": "jiro",
+        "body": "message2"
+      }
+    ]
+  }
+}
